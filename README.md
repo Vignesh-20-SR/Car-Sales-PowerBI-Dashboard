@@ -1,4 +1,5 @@
-![Dashboard Preview](<img width="1186" height="779" alt="Screenshot 2026-02-27 155922" src="https://github.com/user-attachments/assets/dbd3aa51-00fe-4d49-9b4a-95790a2e757d" />)
+![Dashboard Preview](<img width="1186" height="779" alt="Screenshot 2026-02-27 155922" src="https://github.com/user-attachments/assets/265d19de-8815-468d-be2c-9b5ded993025" />
+)
 
 
 # 🚗 Car Sales Dashboard - Power BI Project
